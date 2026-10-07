@@ -31,3 +31,5 @@ pypdf
 beautifulsoup4
 sentence-transformers
 langgraph
+
+langchain_ollama
